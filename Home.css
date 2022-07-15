@@ -10,3 +10,9 @@
   width: 597px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
 }
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 232px;
+  }
+}

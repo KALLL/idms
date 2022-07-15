@@ -22,7 +22,7 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-stick-footer u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-aa17"><div class="u-clearfix u-sheet u-valign-middle-xs u-valign-top-lg u-valign-top-xl u-sheet-1">
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-stick-footer u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-aa17"><div class="u-clearfix u-sheet u-valign-middle-sm u-valign-top-lg u-valign-top-xl u-sheet-1">
         <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-col">

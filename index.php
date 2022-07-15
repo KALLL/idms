@@ -11,6 +11,8 @@
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 4.13.4, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -20,7 +22,7 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-aa17"><div class="u-clearfix u-sheet u-valign-middle-sm u-sheet-1">
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-aa17"><div class="u-clearfix u-sheet u-valign-top u-sheet-1">
         <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-col">
@@ -56,11 +58,13 @@
           </div>
         </div>
       </div></header>
-    <section class="u-clearfix u-image u-section-1" id="sec-d8d8" data-image-width="1280" data-image-height="873">
-      <div class="u-clearfix u-sheet u-sheet-1"></div>
+    <section class="u-clearfix u-palette-5-light-1 u-section-1" id="sec-d8d8">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-absolute-hcenter u-expanded-height u-image u-image-round u-preserve-proportions u-radius-10 u-image-1" src="images/016ea949819a90de23c0bdc93f25e826492e9c9210fefb273343f809983c460413fb7735d0a928f1df1852ab131d91c234b95d6ecc1ad743e84ab5_1280.jpg" alt="" data-image-width="1280" data-image-height="873">
+      </div>
     </section>
-    
-    
+
+
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-3515"><div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
@@ -78,7 +82,6 @@
             </div>
           </div>
         </div>
-      </div>
-      </footer>
+      </div></footer>
   
 </body></html>

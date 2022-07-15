@@ -1,32 +1,12 @@
  .u-section-1 {
-  background-image: url("images/016ea949819a90de23c0bdc93f25e826492e9c9210fefb273343f809983c460413fb7735d0a928f1df1852ab131d91c234b95d6ecc1ad743e84ab5_1280.jpg");
-  background-position: 50% 50%;
+  background-image: none;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 603px;
+  min-height: 407px;
 }
 
-@media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 503px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 436px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 334px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 221px;
-  }
+.u-section-1 .u-image-1 {
+  width: 597px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
 }
